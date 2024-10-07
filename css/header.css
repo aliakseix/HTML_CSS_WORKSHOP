@@ -1,0 +1,48 @@
+
+.logo-container{
+	text-align: center;
+	padding-bottom: 1vh;
+	padding-top: 1vh;
+}
+
+.logo{
+	width: 15vw;
+	height: auto;
+}
+
+.main-nav-container{
+	padding: 0 10vw;
+}
+
+.main-menu-nav{
+	border-top: 1px lightgray solid;
+	border-bottom: 1px lightgray solid;
+	padding: 3vh 0;
+	list-style-type: none;
+	text-align: center;
+}
+
+.main-menu-nav li{
+	display: inline-block;
+}
+
+.main-nav-element{
+	padding: 2vh;
+}
+
+.search-form{
+	margin-left: 3vw;
+}
+
+.search-form input{
+	line-height: 2rem;
+	padding: 1vh 1.5vw;
+	border: 1px solid lightgray;
+}
+
+.search-form input[type="search"]{
+	background-image:url("/images/icons/search.png");
+	background-size: 1em;
+	background-repeat: no-repeat;
+	background-position: right 3% center;
+}

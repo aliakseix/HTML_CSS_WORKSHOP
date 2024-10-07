@@ -1,0 +1,18 @@
+html,body{
+	font-size: 16px;
+	font-family: "Karla", "Helvetica Neue", sans-serif;
+	font-weight: 200;
+}
+
+a{
+	color: #181818;
+}
+
+a:hover{
+	color: #cdcdcd;
+}
+
+img{
+	max-width: 100%;
+	max-height: 100%;
+}
